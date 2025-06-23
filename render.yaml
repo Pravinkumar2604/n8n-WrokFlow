@@ -16,7 +16,7 @@ services:
         value: https://n8n-render-v9rx.onrender.com
       - key: WEBHOOK_URL
         value: https://n8n-render-v9rx.onrender.com
-      - key: WEBHOOK_TUNNEL_VERIFY_TOKEN
+      - key: WEBHOOK_VERIFY_TOKEN
         value: myverifytoken
       - key: N8N_WEBHOOK_URL
         value: https://n8n-render-v9rx.onrender.com
